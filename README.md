@@ -1,2 +1,1 @@
-# Batch_remove_textsegment
-Remove the same textsegment from all files in a folder.
+Open powershell in folder, modify command part TEXT TO BE REMOVED from all files and run.
